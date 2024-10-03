@@ -71,7 +71,8 @@ JavaScript Tests:
 ![check out a book 2](https://github.com/user-attachments/assets/f3e3fab7-f0ea-4471-8aac-04e478f99307)
 ![check out a book 3](https://github.com/user-attachments/assets/96873a01-fcc6-4a42-b657-6228548f4362)
 ![check out a book 4](https://github.com/user-attachments/assets/0bb96c57-85c2-4da4-b219-942c831ffe4b)
-![check out a book test result](https://github.com/user-attachments/assets/ed7401fd-f995-4ec8-bcbd-eb6d3438f680)**<br>
+![check out a book test result](https://github.com/user-attachments/assets/7f000ddd-414c-4427-8e01-7f7ad023f683)
+**<br>
 
 <li>**DELETE A BOOK**</li>
 
@@ -87,7 +88,8 @@ Below you can find a picture of the API request from Postman:<br>
 JavaScript Tests:
 
 **![delete a book test js](https://github.com/user-attachments/assets/05893aa4-842c-4155-81dd-b4713e60da0f)
-![delete a book test result](https://github.com/user-attachments/assets/107ebf80-458d-42c9-86be-0b8add9afb97)**<br>
+![check out a book test result](https://github.com/user-attachments/assets/5c975313-55a8-41b7-abd1-3a0da11ba58e)
+**<br>
 
 
 </ol>
@@ -99,8 +101,9 @@ Below you can find the execution report that was generated through the Postman c
 **![Collection Runner](https://github.com/user-attachments/assets/16273949-139b-4dea-98d6-9dbc3eb4e351)
 ![get fiction books results](https://github.com/user-attachments/assets/84db6ad7-4f29-4599-8287-ec5cef7fae89)
 ![add a book test result](https://github.com/user-attachments/assets/077fa512-eb79-4c03-8854-6d811935d70b)
-![check out a book test result](https://github.com/user-attachments/assets/a3a6ee0e-3878-45dd-b14f-b70db074deb6)
-![delete a book test result](https://github.com/user-attachments/assets/2ecdc7dd-83a0-4757-b0b8-7a3a76f86e9a)**<br>
+![check out a book test result](https://github.com/user-attachments/assets/2305b533-8051-408c-a591-c1978d45dfb8)
+![check out a book test result](https://github.com/user-attachments/assets/5fdc801a-b1b6-409e-9891-e6832989358c)
+**<br>
 
 <h2>Defects found</h2>
 
